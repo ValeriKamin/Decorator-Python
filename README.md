@@ -1,4 +1,4 @@
-### 🐍 Додаткова реалізація Decorator на Python
+### Додаткова реалізація Decorator на Python
 
 ```python
 def email_notifier(func):
